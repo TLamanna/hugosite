@@ -5,6 +5,6 @@ title = "TJ's Class"
 theme = "basic"
 [Params]
 author = "TJ Lamanna"
-description = "My portfolio site"
+description = "Librarians For Broadband"
 gh_url = "https://api.github.com/users"
 gh_user = "TLamanna"
