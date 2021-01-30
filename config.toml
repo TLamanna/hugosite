@@ -1,7 +1,7 @@
 
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "TJ's Class"
+title = "Librarians For Broadband"
 theme = "basic"
 [Params]
 author = "TJ Lamanna"
