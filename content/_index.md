@@ -1,7 +1,1 @@
-This is my portfolio
-
-On this site, you'll find
-
-* My biography
-* My projects
-* My resume
+This goal of this group is to advocate for broadband as a human right.
