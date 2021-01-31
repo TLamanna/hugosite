@@ -5,5 +5,5 @@ draft: false
 layout: grants
 ---
 
-This is my Grants page1.
+This is my Grants page.
 
